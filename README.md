@@ -15,7 +15,7 @@ Serving the HTML pages.
 Testing the webserver
 
 ## PROGRAM:
-```
+```python
 from http.server import HTTPServer, BaseHTTPRequestHandler
 
 content = """
